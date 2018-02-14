@@ -1,24 +1,59 @@
 #EXTM3U
+#EXTINF:0, & Pictures HD
+http://ruhutv.stream/tRXnDiJPF3RO4DR/And_Pictures_HD/And_Pictures_HD_800.m3u8
+
+#EXTINF:0, Mastiii
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Mastiii/Mastiii_800.m3u8
+
+#EXTINF:0, Movies OK HD
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Movies_OK/Movies_OK_800.m3u8
+#EXTINF:0, MTV Beats HD
+http://ruhutv.stream/tRXnDiJPF3RO4DR/MTV_Beats_HD/MTV_Beats_HD_800.m3u8
+#EXTINF:0, Sony Max HD
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Sony_Max_HD/Sony_Max_HD_800.m3u8
+#EXTINF:0, Sony Mix
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Sony_Mix/Sony_Mix_800.m3u8
+#EXTINF:0, Sony Rox HD
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Sony_Rox_HD/Sony_Rox_HD_800.m3u8
+#EXTINF:0, Star Gold HD
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Star_Gold_HD/Star_Gold_HD_800.m3u8
+#EXTINF:0, Travel XP HD
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Travel_XP_HD/Travel_XP_HD_800.m3u8
+#EXTINF:0, Zee Cinema
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Zee_Cinema/Zee_Cinema_800.m3u8
+#EXTINF:0, Zee Cinema HD
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Zee_Cinema_HD/Zee_Cinema_HD_800.m3u8
+#EXTINF:0, Zee TV HD
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Zee_TV_HD/Zee_TV_HD_800.m3u8
+#EXTINF:0, Zing
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Zing/Zing_800.m3u8
+#EXTINF:0, Zoom
+http://ruhutv.stream/tRXnDiJPF3RO4DR/ZOOM/ZOOM_800.m3u8
+#EXTINF:0, 9X Jalwa
+http://ruhutv.stream/tRXnDiJPF3RO4DR/9X_Jalwa/9X_Jalwa_800.m3u8
+#EXTINF:0, 9XM
+http://ruhutv.stream/tRXnDiJPF3RO4DR/9XM/9XM_800.m3u8
+#EXTINF:0, Sony Max HD
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Sony_Max_HD/Sony_Max_HD_800.m3u8
+#EXTINF:0, Sony Mix
+http://ruhutv.stream/tRXnDiJPF3RO4DR/Sony_Mix/Sony_Mix_800.m3u8
+
+
 #EXTINF:0, Travel XP HD
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Travel_XP_HD/Travel_XP_HD_800.m3u8
 #EXTINF:0, WB
 http://ruhutv.stream/tRXnDiJPF3RO4DR/WB/WB_800.m3u8
-#EXTINF:0, & Pictures HD
-http://ruhutv.stream/tRXnDiJPF3RO4DR/And_Pictures_HD/And_Pictures_HD_800.m3u8
+
 #EXTINF:0, & TV HD
 http://ruhutv.stream/tRXnDiJPF3RO4DR/And_TV_HD/And_TV_HD_800.m3u8
 #EXTINF:0, 9X Jalwa
 http://ruhutv.stream/tRXnDiJPF3RO4DR/9X_Jalwa/9X_Jalwa_800.m3u8
 #EXTINF:0, 9XM
 http://ruhutv.stream/tRXnDiJPF3RO4DR/9XM/9XM_800.m3u8
-
 #EXTINF:0, Aaj Tak
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Aaj_Tak/Aaj_Tak_800.m3u8
-
 #EXTINF:0, Animal Planet (Hindi)
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Animal_Planet_Hindi/Animal_Planet_Hindi_800.m3u8
-#EXTINF:0, APN News
-http://ruhutv.stream/tRXnDiJPF3RO4DR/APN_News/APN_News_800.m3u8
 #EXTINF:0, B4U Movies
 http://ruhutv.stream/tRXnDiJPF3RO4DR/B4U_Movies/B4U_Movies_800.m3u8
 #EXTINF:0, B4U Music
@@ -33,14 +68,12 @@ http://ruhutv.stream/tRXnDiJPF3RO4DR/Channel_V/Channel_V_800.m3u8
 http://ruhutv.stream/tRXnDiJPF3RO4DR/CNBC_Awaaz/CNBC_Awaaz_800.m3u8
 #EXTINF:0, Colors HD
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Colors_HD/Colors_HD_800.m3u8
-#EXTINF:0, Dabangg
-http://ruhutv.stream/tRXnDiJPF3RO4DR/Dabangg/Dabangg_800.m3u8
+
 #EXTINF:0, Darshan 24
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Darshan_24/Darshan_24_800.m3u8
 #EXTINF:0, E 24
 http://ruhutv.stream/tRXnDiJPF3RO4DR/E_24/E_24_800.m3u8
-#EXTINF:0, Enterr 10
-http://ruhutv.stream/tRXnDiJPF3RO4DR/Enterr_10/Enterr_10_800.m3u8
+
 #EXTINF:0, Epic HD
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Epic_HD/Epic_HD_800.m3u8
 
@@ -52,8 +85,7 @@ http://ruhutv.stream/tRXnDiJPF3RO4DR/home_shop_18/home_shop_18_800.m3u8
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Housefull_Action/Housefull_Action_800.m3u8
 #EXTINF:0, Housefull Movies
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Housefull_Movies/Housefull_Movies_800.m3u8
-#EXTINF:0, IBC 24
-http://ruhutv.stream/tRXnDiJPF3RO4DR/IBC-24/IBC-24_800.m3u8
+
 #EXTINF:0, ID
 http://ruhutv.stream/tRXnDiJPF3RO4DR/ID/ID_800.m3u8
 #EXTINF:0, India News
@@ -61,8 +93,7 @@ http://ruhutv.stream/tRXnDiJPF3RO4DR/India_news/India_news_800.m3u8
 
 #EXTINF:0, India TV
 http://ruhutv.stream/tRXnDiJPF3RO4DR/India_TV/India_TV_800.m3u8
-#EXTINF:0, India Voice
-http://ruhutv.stream/tRXnDiJPF3RO4DR/India_Voice/India_Voice_800.m3u8
+
 #EXTINF:0, Mastiii
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Mastiii/Mastiii_800.m3u8
 
@@ -111,10 +142,6 @@ http://ruhutv.stream/tRXnDiJPF3RO4DR/Star_Plus_HD/Star_Plus_HD_800.m3u8
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Star_Sports_3/Star_Sports_3_800.m3u8
 #EXTINF:0, Star Utsav
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Star_Utsav/Star_Utsav_800.m3u8
-#EXTINF:0, Sudarshan TV
-http://ruhutv.stream/tRXnDiJPF3RO4DR/Sudarshan/Sudarshan_800.m3u8
-#EXTINF:0, Swaraj Express
-http://ruhutv.stream/tRXnDiJPF3RO4DR/SMBC_TV/SMBC_TV_800.m3u8
 #EXTINF:0, Taaza TV
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Taaza_TV/Taaza_TV_800.m3u8
 #EXTINF:0, Tez
@@ -128,8 +155,7 @@ http://ruhutv.stream/tRXnDiJPF3RO4DR/Travel_XP_HD/Travel_XP_HD_800.m3u8
 
 #EXTINF:0, Zee Action
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Zee_Action/Zee_Action_800.m3u8
-#EXTINF:0, Zee Anmol
-http://ruhutv.stream/tRXnDiJPF3RO4DR/Zee_Anmol/Zee_Anmol_800.m3u8
+
 #EXTINF:0, Zee Business
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Zee_Business/Zee_Business_800.m3u8
 #EXTINF:0, Zee Cinema
@@ -140,8 +166,7 @@ http://ruhutv.stream/tRXnDiJPF3RO4DR/Zee_Cinema_HD/Zee_Cinema_HD_800.m3u8
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Zee_Classic/Zee_Classic_800.m3u8
 #EXTINF:0, Zee etc
 http://ruhutv.stream/tRXnDiJPF3RO4DR/etc/etc_800.m3u8
-#EXTINF:0, Zee Hindustan
-http://ruhutv.stream/tRXnDiJPF3RO4DR/Zee_SANGAM/Zee_SANGAM_800.m3u8
+
 #EXTINF:0, Zee News
 http://ruhutv.stream/tRXnDiJPF3RO4DR/Zee_News/Zee_News_800.m3u8
 #EXTINF:0, Zee TV HD
